@@ -13,17 +13,18 @@ weight = 5
     "Operations Research",
     "Geostatistics",
     "Geophysics",
+    "Machine Learning"
   ]
 
 # List your qualifications (such as academic degrees).
 
 [[education.courses]]
-  course = "MS in Computer Science"
+  course = "MS, Computer Science"
   institution = "Georgia Institute of Technology"
   year = 2019
 
 [[education.courses]]
-  course = "BS in Mining Engineering"
+  course = "BS, Mining and Geological Engineering"
   institution = "University of Arizona"
   year = 2016
  
@@ -31,6 +32,4 @@ weight = 5
 
 # Biography
 
-Nicholas Shea is a part-time student.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Nicholas Shea is a part time student.
